@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+body {
+	font-family: Arial;
+
+	
+
+}
+
+.container {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+
+
+.banner {
+	text-align: center;
+	margin-top: 20px;
+	background: #EEEEEE;
+	padding: 30px;
+
+}
+
+.banner h1 {
+	font-size: 40px;
+	line-height: 40px;
+}
+
+.banner p {
+	font-size: 20px;
+	line-height: 20px;
+}
+
+.content p {
+	text-align: center;
+}
+
+.content img {
+	width: 100%;
+}
+
+.content img:hover {
+	
+	
+}
