@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+ 	border-left: 20px solid rgb(169,215,209);
+ 	border-right: 20px solid rgb(169,215,209);
+ 	font-family: arial;
+}
+
+header {
+	background-color: rgb(169,215,209);
+
+}
+
+h1 {
+	text-align: center;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+table caption {
+	font-size: 30px;
+	padding-top:  30px;
+	padding-bottom: 40px;
+
+
+	
+}
+
+table label {
+	font-size: 20px;
+	line-height: 35px;
+}
+
+table input {
+	height: 25px;
+}
+
+table select option {
+	width: 100px;
+	background-color: red;
+}
+
+@media (max-width: 768px) {
+	
+	body {
+ 	
+ 	
+	}	
+
+	.wrapper {
+		width: 600px;
+		margin: 0 auto;
+	}
+
+
+}
